@@ -1,0 +1,126 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				turtle = true
+				squid = true
+				glow_squid = true
+				tropical_fish = true
+				bat = true
+				cod = true
+				spider = true
+				skeleton = true
+				pufferfish = true
+				drowned = true
+				zombie = true
+				creeper = true
+				zombie_villager = true
+				enderman = true
+				dolphin = true
+				item = true
+				pig = true
+				chicken = true
+				witch = true
+				cow = true
+				rabbit = true
+				wolf = true
+				polar_bear = true
+				painting = true
+				sheep = true
+				salmon = true
+				experience_orb = true
+				slime = true
+				tnt_minecart = true
+				item_frame = true
+				husk = true
+				fox = true
+				cave_spider = true
+				chest_minecart = true
+				axolotl = true
+				bee = true
+				illusioner = true
+				pillager = true
+				frog = true
+				cat = true
+				armor_stand = true
+				horse = true
+				donkey = true
+				arrow = true
+				llama = true
+				villager = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				ocean_creeper = true
+				cave_creeper = true
+				jungle_creeper = true
+				snowy_creeper = true
+				dripstone_creeper = true
+				dark_oak_creeper = true
+				spruce_creeper = true
+				badlands_creeper = true
+				savannah_creeper = true
+
+			[light_sources.settings.entities.knightquest]
+				swampman = true
+				eldknight = true
+				eldbomb = true
+				ratman = true
+				lizzy = true
+
+			[light_sources.settings.entities.wheelbarrow]
+				wheelbarrow = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				snowy_enderman = true
+				end_enderman = true
+				desert_enderman = true
+				scarab = true
+				cave_enderman = true
+				swamp_enderman = true
+				badlands_enderman = true
+
+			[light_sources.settings.entities.man_of_many_planes]
+				economy_plane = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+				glare = true
+				wildfire = true
+				mauler = true
+
+			[light_sources.settings.entities.biomemakeover]
+				helmit_crab = true
+				rootling = true
+				moth = true
+				dragonfly = true
+				lightning_bug = true
+				decayed = true
+				lightning_bug_alternate = true
+				scuttler = true
+				tumbleweed = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
+
