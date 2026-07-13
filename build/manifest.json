@@ -1327,14 +1327,6 @@
         "shaderpacks/ComplementaryUnbound_r5.8.1.zip": {
             "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965",
             "size": 546928
-        },
-        "versions/fabric-loader-0.19.3-1.20.1/fabric-loader-0.19.3-1.20.1.jar": {
-            "sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
-            "size": 23028853
-        },
-        "versions/fabric-loader-0.19.3-1.20.1/fabric-loader-0.19.3-1.20.1.json": {
-            "sha256": "dc25b77ffa4399c5d8dfac4c8801ec1413a30644fead179237e2822dce007008",
-            "size": 2862
         }
     },
     "format": 2,
