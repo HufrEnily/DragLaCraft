@@ -1324,6 +1324,10 @@
             "sha256": "b8e12e853fe985b0b65642908f474076ad076283350bcf0f4c0be5add607be78",
             "size": 2171315
         },
+        "shaderpacks/ComplementaryUnbound_r5.8.1.zip": {
+            "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965",
+            "size": 546928
+        },
         "versions/fabric-loader-0.19.3-1.20.1/fabric-loader-0.19.3-1.20.1.jar": {
             "sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
             "size": 23028853
